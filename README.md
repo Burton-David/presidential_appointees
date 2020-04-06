@@ -1,3 +1,5 @@
+This is no longer an active project I am working on.  It is being kept up for later integration with other portfolio projects.  
+
 # presidential_appointees
 An Example of simple data cleaning and initial exploration.  The original data is taken from https://github.com/fivethirtyeight/data .  Please use their link to aquire source data as I have dropped null values and combined the title of several jobs where necessary. 
 
